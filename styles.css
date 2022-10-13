@@ -22,3 +22,9 @@ input {
   border: 3px solid #ccc;
   outline: none !important;
 }
+.valid {
+  border-color: #36cc36;
+}
+.invalid {
+  border-color: #cc3936;
+}
